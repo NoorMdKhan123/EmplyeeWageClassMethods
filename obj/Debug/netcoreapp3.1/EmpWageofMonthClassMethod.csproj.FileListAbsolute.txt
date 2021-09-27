@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\obj\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\obj\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\obj\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.AssemblyInfo.cs
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\obj\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\obj\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\bin\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.exe
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\bin\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.deps.json
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\bin\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.runtimeconfig.json
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\bin\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.runtimeconfig.dev.json
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\bin\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.dll
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\bin\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.pdb
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\obj\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.dll
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\obj\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.pdb
+C:\Users\md048\source\repos\EmpWageofMonthClassMethod\obj\Debug\netcoreapp3.1\EmpWageofMonthClassMethod.genruntimeconfig.cache
