@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpSwitchCaseClassMethod", "EmpSwitchCaseClassMethod.csproj", "{0725A678-5B04-4A54-9BE6-AC20F1ABCAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0725A678-5B04-4A54-9BE6-AC20F1ABCAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0725A678-5B04-4A54-9BE6-AC20F1ABCAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0725A678-5B04-4A54-9BE6-AC20F1ABCAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0725A678-5B04-4A54-9BE6-AC20F1ABCAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA5DA960-265D-4C2F-8B66-9B8A8B035273}
+	EndGlobalSection
+EndGlobal

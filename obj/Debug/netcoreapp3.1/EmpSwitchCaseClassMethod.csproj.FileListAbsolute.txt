@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\obj\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\obj\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\obj\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\obj\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.AssemblyInfo.cs
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\obj\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\bin\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.exe
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\bin\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.deps.json
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\bin\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.runtimeconfig.json
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\bin\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.runtimeconfig.dev.json
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\bin\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.dll
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\bin\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.pdb
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\obj\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.dll
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\obj\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.pdb
+C:\Users\md048\source\repos\EmpSwitchCaseClassMethod\obj\Debug\netcoreapp3.1\EmpSwitchCaseClassMethod.genruntimeconfig.cache
