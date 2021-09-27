@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\EmployeeWageMonth\bin\Debug\netcoreapp3.1\EmployeeWageMonth.exe
+C:\Users\md048\source\repos\EmployeeWageMonth\bin\Debug\netcoreapp3.1\EmployeeWageMonth.deps.json
+C:\Users\md048\source\repos\EmployeeWageMonth\bin\Debug\netcoreapp3.1\EmployeeWageMonth.runtimeconfig.json
+C:\Users\md048\source\repos\EmployeeWageMonth\bin\Debug\netcoreapp3.1\EmployeeWageMonth.runtimeconfig.dev.json
+C:\Users\md048\source\repos\EmployeeWageMonth\bin\Debug\netcoreapp3.1\EmployeeWageMonth.dll
+C:\Users\md048\source\repos\EmployeeWageMonth\bin\Debug\netcoreapp3.1\EmployeeWageMonth.pdb
+C:\Users\md048\source\repos\EmployeeWageMonth\obj\Debug\netcoreapp3.1\EmployeeWageMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\EmployeeWageMonth\obj\Debug\netcoreapp3.1\EmployeeWageMonth.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\EmployeeWageMonth\obj\Debug\netcoreapp3.1\EmployeeWageMonth.AssemblyInfo.cs
+C:\Users\md048\source\repos\EmployeeWageMonth\obj\Debug\netcoreapp3.1\EmployeeWageMonth.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\EmployeeWageMonth\obj\Debug\netcoreapp3.1\EmployeeWageMonth.dll
+C:\Users\md048\source\repos\EmployeeWageMonth\obj\Debug\netcoreapp3.1\EmployeeWageMonth.pdb
+C:\Users\md048\source\repos\EmployeeWageMonth\obj\Debug\netcoreapp3.1\EmployeeWageMonth.genruntimeconfig.cache
+C:\Users\md048\source\repos\EmployeeWageMonth\obj\Debug\netcoreapp3.1\EmployeeWageMonth.csproj.AssemblyReference.cache
