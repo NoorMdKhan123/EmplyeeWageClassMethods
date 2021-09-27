@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\EmpWageWithClassMthods\bin\Debug\netcoreapp3.1\EmpWageWithClassMthods.exe
+C:\Users\md048\source\repos\EmpWageWithClassMthods\bin\Debug\netcoreapp3.1\EmpWageWithClassMthods.deps.json
+C:\Users\md048\source\repos\EmpWageWithClassMthods\bin\Debug\netcoreapp3.1\EmpWageWithClassMthods.runtimeconfig.json
+C:\Users\md048\source\repos\EmpWageWithClassMthods\bin\Debug\netcoreapp3.1\EmpWageWithClassMthods.runtimeconfig.dev.json
+C:\Users\md048\source\repos\EmpWageWithClassMthods\bin\Debug\netcoreapp3.1\EmpWageWithClassMthods.dll
+C:\Users\md048\source\repos\EmpWageWithClassMthods\bin\Debug\netcoreapp3.1\EmpWageWithClassMthods.pdb
+C:\Users\md048\source\repos\EmpWageWithClassMthods\obj\Debug\netcoreapp3.1\EmpWageWithClassMthods.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\EmpWageWithClassMthods\obj\Debug\netcoreapp3.1\EmpWageWithClassMthods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\EmpWageWithClassMthods\obj\Debug\netcoreapp3.1\EmpWageWithClassMthods.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\EmpWageWithClassMthods\obj\Debug\netcoreapp3.1\EmpWageWithClassMthods.AssemblyInfo.cs
+C:\Users\md048\source\repos\EmpWageWithClassMthods\obj\Debug\netcoreapp3.1\EmpWageWithClassMthods.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\EmpWageWithClassMthods\obj\Debug\netcoreapp3.1\EmpWageWithClassMthods.dll
+C:\Users\md048\source\repos\EmpWageWithClassMthods\obj\Debug\netcoreapp3.1\EmpWageWithClassMthods.pdb
+C:\Users\md048\source\repos\EmpWageWithClassMthods\obj\Debug\netcoreapp3.1\EmpWageWithClassMthods.genruntimeconfig.cache
